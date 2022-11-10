@@ -71,7 +71,6 @@ const MyReview = () => {
               <th>Customer Name</th>
               <th>Food Name</th>
               <th>Food Review</th>
-              <th>Comment Update</th>
               <th>Delete Review</th>
             </tr>
           </thead>

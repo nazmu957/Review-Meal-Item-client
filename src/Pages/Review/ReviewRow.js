@@ -49,7 +49,7 @@ const ReviewRow = ({ review, handleDelete, handleStatusUpdate }) => {
         <div className="flex items-center space-x-3">
           <div className="avatar">
             <div className="mask mask-squircle w-12 h-12">
-              <img src={user?.photoURL} alt="" />
+              <img className="rounded-full" src={user?.photoURL} alt="" />
             </div>
             <h2></h2>
           </div>
@@ -64,14 +64,14 @@ const ReviewRow = ({ review, handleDelete, handleStatusUpdate }) => {
         <br />
       </td>
       <td>{message}</td>
-      <th>
+      {/* <th>
         <button
           onClick={() => handleStatusUpdate(_id)}
           className="btn btn-ghost btn-xs"
         >
           {status ? status : 'Never want eat'}
         </button>
-      </th>
+      </th> */}
       <th>
         <label
           htmlFor="my-modal"
