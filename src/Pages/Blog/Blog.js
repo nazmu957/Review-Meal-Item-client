@@ -2,10 +2,10 @@ import React from 'react'
 
 const Blog = () => {
   return (
-    <div>
+    <div className=''>
         <h1 className='text-center '>Blog</h1>
         <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
-      <div className="card w-96 bg-base-100 shadow-xl">
+      <div className="card w-96 bg-base-100 shadow-xl mb-5 ml-5">
         <div className="card-body">
           <h2 className="card-title">Difference between SQL and NoSQL</h2>
           <p>
@@ -16,7 +16,7 @@ const Blog = () => {
           </p>
         </div>
       </div>
-      <div className="card w-96 bg-base-100 shadow-xl">
+      <div className="card w-96 bg-base-100 shadow-xl mb-5 ">
         <div className="card-body">
           <h2 className="card-title">
             What is JWT, and how does it work?
@@ -28,7 +28,7 @@ const Blog = () => {
             and trusted because it is digitally signed.</p>
         </div>
       </div>
-      <div className="card w-96 bg-base-100 shadow-xl">
+      <div className="card w-96 bg-base-100 shadow-xl mb-5 ml-5">
         <div className="card-body">
           <h2 className="card-title">
             What is the difference between javascript and NodeJS?
