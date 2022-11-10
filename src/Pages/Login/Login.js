@@ -58,7 +58,7 @@ const Login = () => {
           </label>
           <input type="password" name="password" placeholder="password" className="input input-bordered" />
           <label className="label">
-             <p>New in our site?<Link to='/signup' className="label-text-alt link link-hover text-sm text-blue-500">Create Account</Link></p>
+             <p>New in our site?<Link to='/signup' className="label-text-alt link link-hover text-sm text-blue-500 font-bold">Create Account</Link></p>
           </label>
           <button onClick={handleGoogleSignIn} className="btn btn-outline btn-success">Google SignIn</button>
         </div>
