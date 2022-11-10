@@ -54,7 +54,7 @@ const SignUp = () => {
           </label>
           <input type="password" name="confirm" placeholder="confirm password" className="input input-bordered" required/>
           <label className="label">
-            <p>Already have an account?<Link to='/login' className="label-text-alt link link-hover">Please Login</Link></p>
+            <p>Already have an account?<Link to='/login' className="label-text-alt link link-hover text-sm text-blue-500 font-bold">Please Login</Link></p>
             
           </label>
             <p className='text-center text-red-400'>{error}</p>
