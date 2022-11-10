@@ -3,7 +3,7 @@ import React from 'react'
 const Blog = () => {
   return (
     <div className=''>
-        <h1 className='text-center '>Blog</h1>
+        <h1 className='text-center text-4xl pb-10'>Blog</h1>
         <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
       <div className="card w-96 bg-base-100 shadow-xl mb-5 ml-5">
         <div className="card-body">
