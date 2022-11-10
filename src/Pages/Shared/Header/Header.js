@@ -30,7 +30,7 @@ const Header = () => {
       
           
             <>
-            <li  className="text-sm font-semibold "><Link to="/">Add Service</Link></li>
+            <li  className="text-sm font-semibold "><Link to="/addService">Add Service</Link></li>
             <li  className="text-sm font-semibold "><Link to="/myReview">My Review</Link></li>
             <button onClick={logOut} className="text-sm font-semibold ">LogOut</button>
             </>
@@ -68,7 +68,7 @@ const Header = () => {
       
           
             <>
-           <li  className="text-sm font-semibold "><Link to="/">Add Service</Link></li>
+           <li  className="text-sm font-semibold "><Link to="/addService">Add Service</Link></li>
             <li  className="text-sm font-semibold "><Link to="/myReview">My Review</Link></li>
             <button onClick={logOut} className="text-sm font-semibold ">LogOut</button>
             </>
