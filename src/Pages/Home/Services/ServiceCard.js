@@ -7,11 +7,11 @@ import { Link } from 'react-router-dom';
 const ServiceCard = ({service}) => {
     const {_id,img,price,title,description} = service;
   return (
-    <div className="card w-96 bg-base-100 shadow-xl ">
+    <div className="card w-96 bg-base-100 shadow-xl mb-10">
       <figure>
         <PhotoProvider>
           <PhotoView src={img}>
-            <img src={img} alt="Shoes" />
+            <img className="p-5 rounded-lg" src={img} alt="Shoes" />
           </PhotoView>
         </PhotoProvider>
       </figure>
