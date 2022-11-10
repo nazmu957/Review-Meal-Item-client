@@ -1,0 +1,50 @@
+[
+    {
+        
+        "service_id": "01",
+        "title": "Baked-Chicken-Wings",
+        "img": "https://i.ibb.co/NszCj1Y/baked-chicken-wings-asian-style-tomatoes-sauce-plate.jpg",
+        "price": "120.00",
+        "description": "Baked chicken wings descriptionChicken wings are white meat, even though they're juicier and have a more concentrated poultry flavor, like dark meat. Many people think of Buffalo wings when they think of this part of the chicken, and for good reason: they're extremely popular throughout the United States.Chicken wings should be cooked until crispy and golden brown. This will take about 45 minutes in an oven at 400 degrees F. You will want to keep an eye on the wings to make sure the seasoning does not burn or blacken.Chicken wings have become ubiquitous with sports and drinking culture, but they're well-worth your time (and appetite) on any occasion. They're simple, easy to cook, full of protein, budget-friendly and a fun, hearty finger food for parties and weeknight dinners alike."
+    },
+    {
+        
+        "service_id": "02",
+        "title": "Burger",
+        "img": "https://i.ibb.co/YcktwHk/front-view-burger-fries-plate.jpg",
+        "price": "80.00",
+        "description": "Some direct consumer responses highlight all these below:Juicy, big, loaded with toppings of my choice.High quality beef medium to well with cheese and bacon on a multigrain bun.A huge single or triple burger with all the fixings cheese, lettuce, tomato, onions and special sauce or mayonnaise.Why are McDonald’s burgers so dry? In the example of a McDonald’s hamburger, the patty loses water in the form of steam during the cooking process. … So in the absence of moisture or high humidity, the hamburger simply dries out, rather than rot. With moisture loss, we take away an element required by microbes to grow and cause spoilage."
+    },
+    {
+        
+        "service_id": "03",
+        "title": "Chicken-skewers-with-slices-sweet-peppers-dill",
+        "img": "https://i.ibb.co/ZMpyGGW/chicken-skewers-with-slices-sweet-peppers-dill.jpg",
+        "price": "200.00",
+        "description": "During summer, we are meant to be in flip flops, eating easy skewer recipes like this one (or Shrimp Kabobs with Pineapple), and wiping away the watermelon juice that’s running down our chins.These Greek chicken kabobs have pieces of juicy chicken flavored with an easy marinade and a colorful stack of veggies.They can be prepped ahead for a cookout or assembled at the last minute when you need to land a healthy meal on the table before hungry pandemonium sets in.Grilled chicken kabobs are fast and nutritious, and like a Skinny Margarita on a hot day, they never fail to hit the spot.If you’re anything like me, you may be staring at this post and wondering why some recipes are called “kabobs” and some are called “kebobs” instead.Well, I looked up if there is a difference between “kabab” and “kebob,” and it seems that the only difference between the two is the spelling."
+    },
+    {
+        
+        "service_id": "04",
+        "title": "Mutton-lamb-biriyani-with-basmati-rice-served-bowl-moody",
+        "img": "https://i.ibb.co/jw9cCCn/mutton-lamb-biriyani-with-basmati-rice-served-bowl-moody-background.jpg",
+        "price": "150.00",
+        "description": "If you are in for a meaty chewy kind of mood then for sure Mutton biryani is what your palate will prefer. But if you prefer something more sublime yet flavorful and juicy, then chicken Biryani is definitely your take away. The time factor also plays a key role in deciding what biryani to cook.This debate has been long outstanding in the world of flavors. Well, it depends from person to person and the mood. If you are in for a meaty chewy kind of mood then for sure Mutton biryani is what your palate will prefer. But if you prefer something more sublime yet flavorful and juicy, then chicken Biryani is definitely your take away.The time factor also plays a key role in deciding what biryani to cook. Mutton Biryani is more time-consuming to prepare than its chicken counterpart."
+    },
+    {
+        
+        "service_id": "05",
+        "title": "Tea-time-snacks-samosa-kachori",
+        "img": "https://i.ibb.co/6tk4dRP/group-indian-tea-time-snacks-samosa-kachori-aloo-bonda-onion-pakora-moong-vada-chilli-fritter-etc.jpg",
+        "price": "30.00",
+        "description": "To quote the basics, samosa is tetrahedral and kachoris are flat roundels. Both samosas and kachoris are made with a dough consisting wheat flour and maida sometimes, sooji (semolina) optionally spiced with jeera or saunf. Both are served with mint chutney and dates and tamarind chutney.It is a sweet dish dipped in sugar syrup. In Gujarat, it is usually a round ball made of flour and dough filled with a stuffing of yellow moong dal, black pepper, red chili powder, and ginger paste. In Delhi it is often served as chaat."
+    },
+    {
+        
+        "service_id": "06",
+        "title": "Dahi-puri-chat",
+        "img": "https://i.ibb.co/v1kKrv1/dahi-puri-chat-is-indian-road-side-snack-item-which-is-especially-popular-state-maharashtra-india.jpg",
+        "price": "60.00",
+        "description": "On the other hand, Dahi puri is a crispy shell stuffed with boiled potatoes, onions, tomatoes, curd, ground spices, chutneys and sev. There is no spicy water added in a dahi puri,One plate of Dahi Batata Puri gives 682 calories. Out of which carbohydrates comprise 177 calories, proteins account for 44 calories and remaining calories come from fat which is 431 calories.Chaat is an umbrella term for a wide range of roadside foods that usually feature some kind of fried dough with various ingredients that typically create a spicy, tangy, or salty flavour, though some chaat are sweet." 
+    }
+]
