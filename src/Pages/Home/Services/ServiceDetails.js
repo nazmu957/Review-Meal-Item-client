@@ -41,7 +41,7 @@ const ServiceDetails = () => {
         </div>
       </div>
       <div>
-        <h2>All Reviews</h2>
+        <h2 className="text-2xl text-center">All Reviews</h2>
         {reviews.map((review) => (
           <SameReview key={review._id} review={review}></SameReview>
         ))}

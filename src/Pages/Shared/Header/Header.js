@@ -23,14 +23,14 @@ const Header = () => {
       </label>
       <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
         <li className='font-semibold '><Link to='/'>Home</Link></li>
-        <li className='font-semibold '><Link to='/blog'>Blog</Link></li>
+        <li className='font-semibold '><Link to='/blog'>About Us</Link></li>
 
         {
       user?.uid ?
       
           
             <>
-            <li  className="text-sm font-semibold "><Link to="/addService">Add Service</Link></li>
+            {/* <li  className="text-sm font-semibold "><Link to="/addService">Add Service</Link></li> */}
             <li  className="text-sm font-semibold "><Link to="/myReview">My Review</Link></li>
             <button onClick={logOut} className="text-sm font-semibold ">LogOut</button>
             </>
@@ -60,7 +60,7 @@ const Header = () => {
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal p-0">
-        <li className='font-semibold '><Link to='/blog'>Blog</Link></li>
+        <li className='font-semibold '><Link to='/blog'>About Us</Link></li>
           <li className='font-semibold '><Link to='/'>Home</Link></li>
 
           {
@@ -68,7 +68,7 @@ const Header = () => {
       
           
             <>
-           <li  className="text-sm font-semibold "><Link to="/addService">Add Service</Link></li>
+           {/* <li  className="text-sm font-semibold "><Link to="/addService">Add Service</Link></li> */}
             <li  className="text-sm font-semibold "><Link to="/myReview">My Review</Link></li>
             <button onClick={logOut} className="text-sm font-semibold ">LogOut</button>
             </>
