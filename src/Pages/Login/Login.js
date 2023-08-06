@@ -60,7 +60,7 @@ const Login = () => {
           <label className="label">
              <p>New in our site?<Link to='/signup' className="label-text-alt link link-hover text-sm text-blue-500 font-bold">Create Account</Link></p>
           </label>
-          <button onClick={handleGoogleSignIn} className="btn btn-outline btn-success">Google SignIn</button>
+          <button onClick={handleGoogleSignIn} className="btn btn-outline btn-success">Google Sign In</button>
         </div>
 
         <div className="form-control mt-6">
