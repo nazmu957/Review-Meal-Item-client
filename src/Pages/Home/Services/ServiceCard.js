@@ -16,8 +16,8 @@ const ServiceCard = ({service}) => {
         </PhotoProvider>
       </figure>
       <div className="card-body items-center text-center">
-  <h2 className="card-title">{title}</h2>
-  <p className='text-lg font-semibold'>Price:${price}</p>
+  <h2 className="card-title text-base">Food Name: {title} </h2>
+  <p className='text-lg font-semibold text-base'>Price:${price}</p>
          
         <div className="card-actions justify-end">
           <Link to={`/services/${_id}`}>
