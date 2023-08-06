@@ -12,7 +12,7 @@ const Services = () => {
   return (
     <div>
       <div className="text-center mb-4 mt-8">
-        <p className="text-2xl font-bold">Food Service List</p>
+        <p className="text-2xl font-bold">Our Delicious Food Item</p>
       </div>
       <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
         {services.map((service) => (
