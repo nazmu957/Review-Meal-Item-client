@@ -33,7 +33,7 @@ const ServiceDetails = () => {
               </Link>
             ) : (
               <Link to="/login">
-                <button className="btn btn-primary">
+                <button className="btn btn-secondary my-4">
                   Please login to add a review
                 </button>
               </Link>
