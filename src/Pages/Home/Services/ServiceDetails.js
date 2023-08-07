@@ -19,6 +19,7 @@ const ServiceDetails = () => {
   return (
     <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
       <div className="card w-96 bg-base-100 shadow-xl">
+        <h1 className="text-2xl text-center">Your selected Food Item</h1>
         <figure className="px-10 pt-10">
           <img src={img} alt="Shoes" className="rounded-xl" />
         </figure>
