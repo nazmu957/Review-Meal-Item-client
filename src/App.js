@@ -7,9 +7,9 @@ function App() {
 
  
   return (
-    <div  data-theme="cupcake" className='max-w-screen-xl mx-auto ' >
+    <div  data-theme="cupcake" className=' ' >
       <RouterProvider router={router}>
-        ]
+        
       </RouterProvider>
     </div>
   );
