@@ -20,7 +20,7 @@ const Banner = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentSlide((prevSlide) => (prevSlide % slides.length) + 1);
-    }, 2000);
+    }, 3000);
 
     return () => clearInterval(interval);
   }, []);

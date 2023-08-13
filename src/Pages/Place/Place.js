@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import place from '../../images/place.png'
 
+
 const Place = () => {
+  
     return (
         <div>
             <div className="hero  bg-base-200">
@@ -11,7 +13,7 @@ const Place = () => {
   </div>
 </div> 
         </div>
-    );
+    );  
 };
 
 export default Place;
