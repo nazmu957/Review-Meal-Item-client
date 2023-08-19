@@ -6,7 +6,7 @@ const BestItem = () => {
     <div
       className="h-[30rem] bg-cover bg-center flex flex-col justify-center items-center"
       style={{
-        backgroundImage: 'url(https://img.freepik.com/free-photo/life-style_1122-1996.jpg?w=2000&t=st=1692425927~exp=1692426527~hmac=96e12dce72c86819a39fe0fc83a3b7ee4cc4fad005607cf4d8ae723c13602342)', // Use template literals to set the URL
+        backgroundImage: 'url(https://i.ibb.co/RjVfsxp/kitchen.jpg)', // Use template literals to set the URL
       }}
     >
       <div className="bg-white shadow-md p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20 rounded-lg">
