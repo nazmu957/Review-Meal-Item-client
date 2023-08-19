@@ -1,5 +1,6 @@
 import React from 'react'
 import bestFood from '../../../images/vipfood.jpg'
+import { Link } from 'react-router-dom'
 
 const BestItem = () => {
   return (
@@ -13,7 +14,7 @@ const BestItem = () => {
         {/* Content of your card */}
         <h2 className="text-2xl font-semibold mb-4">Wanna Tour our kitchen?</h2>
         <p className="text-gray-700 font-semibold">Click the button</p>
-        <button className="bg-red-600 mt-3 rounded-md px-5 py-2 font-semibold text-white">Tour kitchen</button>
+        <Link to="allServices"><button className="bg-red-600 mt-3 rounded-md px-5 py-2 font-semibold text-white">Tour Our  kitchen</button></Link>
       </div>
     </div>
   )
