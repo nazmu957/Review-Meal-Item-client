@@ -12,10 +12,10 @@ const Footer = () => {
           <a className="link link-hover">Home Food</a>
         </div>
         <div>
-          <span className="footer-title">Learn Myself</span>
-          <a className="link link-hover">About me</a>
-          <a className="link link-hover">Contact</a>
-          <a className="link link-hover">email</a>
+          <span className="footer-title">Learn Ourself</span>
+          <a className="link link-hover">About Our company</a>
+          <a className="link link-hover">Contact: 49348999</a>
+          <a className="link link-hover">email: abc@gmail.com</a>
         </div>
         <div>
           <span className="footer-title">Legal</span>
@@ -29,7 +29,7 @@ const Footer = () => {
           <img width="80" height="80" src={logo} alt="" />
           <p>
             Sakib kitchen Ltd. <br />
-            Providing reliable tech since 1992
+            Providing fresh food since 2023
           </p>
         </div>
         <div className="md:place-self-center md:justify-self-end">
