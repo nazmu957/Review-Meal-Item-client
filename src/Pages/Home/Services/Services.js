@@ -12,7 +12,9 @@ const Services = () => {
   return (
     <div class="container mx-auto px-4">
       <div className="text-center mb-4 mt-8">
-        <p className="text-2xl font-bold py-3">Our Delicious Food Item</p>
+        <p className="text-4xl font-bold py-3  font-sans">
+          Special offers
+        </p>
       </div>
       <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
         {services.map((service) => (
@@ -25,7 +27,7 @@ const Services = () => {
         </button>
       </div>
     </div>
-  )
+  );
 }
 
 export default Services
