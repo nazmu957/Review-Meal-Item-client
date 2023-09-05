@@ -8,12 +8,12 @@ const AboutUs = () => {
           <img
             src="https://i.ibb.co/ZMpyGGW/chicken-skewers-with-slices-sweet-peppers-dill.jpg"
             alt="img"
-            className="w-full h-auto"
+            className="w-full px-[5rem] mb-[5rem] h-auto"
           />
         </div>
 
         {/* Right Section */}
-        <div className="md:w-1/2 bg-gray-100 p-4">
+        <div className="md:w-1/2  p-4 mb-[5rem]">
           <h1 className="text-5xl font-bold mb-2">
             Exploring Culinary Excellence and Sharing Our Food Adventures
           </h1>
@@ -26,7 +26,7 @@ const AboutUs = () => {
             cooking. Join us as we embark on a delectable adventure, where every
             recipe is a celebration of taste, culture, and the joy of good food
           </p>
-          <button className="btn  ">Learn More</button>
+          <button className="btn  mt-5">Learn More</button>
         </div>
       </div>
     );
