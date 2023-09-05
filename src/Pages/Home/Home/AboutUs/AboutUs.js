@@ -20,12 +20,13 @@ const AboutUs = () => {
           <p className="text-gray-600 text-2xl">
             we are a passionate team of food enthusiasts dedicated to exploring
             the world of flavors, sharing mouthwatering recipes, and uncovering
-            the stories behind every dish. Our culinary journey began  and
-            has since evolved into a vibrant community of fellow food lovers who
+            the stories behind every dish. Our culinary journey began and has
+            since evolved into a vibrant community of fellow food lovers who
             seek inspiration, knowledge, and a deep appreciation for the art of
             cooking. Join us as we embark on a delectable adventure, where every
             recipe is a celebration of taste, culture, and the joy of good food
           </p>
+          <button className="btn  ">Learn More</button>
         </div>
       </div>
     );
