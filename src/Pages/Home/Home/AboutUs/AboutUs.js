@@ -8,7 +8,7 @@ const AboutUs = () => {
           <img
             src="https://i.ibb.co/ZMpyGGW/chicken-skewers-with-slices-sweet-peppers-dill.jpg"
             alt="img"
-            className="lg:w-full lg:px-[5rem] mb-[5rem] h-auto"
+            className="lg:w-full lg:px-[5rem] lg:mb-[5rem] h-auto"
           />
         </div>
 
