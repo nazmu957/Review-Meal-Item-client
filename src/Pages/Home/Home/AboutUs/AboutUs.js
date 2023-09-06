@@ -2,13 +2,13 @@ import React from 'react';
 
 const AboutUs = () => {
     return (
-      <div className="flex flex-col md:flex-row">
+      <div className="flex flex-col md:flex-row mt-5">
         {/* Left Section */}
         <div className="md:w-1/2">
           <img
             src="https://i.ibb.co/ZMpyGGW/chicken-skewers-with-slices-sweet-peppers-dill.jpg"
             alt="img"
-            className="w-full px-[5rem] mb-[5rem] h-auto"
+            className="lg:w-full lg:px-[5rem] mb-[5rem] h-auto"
           />
         </div>
 
