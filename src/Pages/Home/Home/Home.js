@@ -7,13 +7,14 @@ import AboutUs from './AboutUs/AboutUs';
 
 const Home = () => {
     return (
-        <div>
-            <Banner></Banner>
-            <Services></Services>
-            <AboutUs></AboutUs>
-            <BestItem></BestItem>
-            <Place></Place>
-        </div>
+      <div>
+        <Banner></Banner>
+        <Services></Services>
+        <BestItem></BestItem>
+        <AboutUs></AboutUs>
+
+        {/* <Place></Place> */}
+      </div>
     );
 };
 
